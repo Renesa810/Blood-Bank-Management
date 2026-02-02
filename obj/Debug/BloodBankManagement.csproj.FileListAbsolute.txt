@@ -1,0 +1,61 @@
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.Properties.Resources.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\bin\Debug\BloodBankManagement.exe.config
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\bin\Debug\BloodBankManagement.exe
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\bin\Debug\BloodBankManagement.pdb
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\bin\Debug\Guna.UI.dll
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.Form1.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBan.5209C807.Up2Date
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.exe
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.pdb
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.Donor.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.HomePage.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.BloodStock.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.DonorList.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.LogIn.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.Patient.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.PatientList.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.BloodTransfer.resources
+C:\Users\Acer\Documents\CODES\C#\BloodBankManagement\obj\Debug\BloodBankManagement.DashBoard.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\bin\Debug\BloodBankManagement.exe.config
+C:\Users\Acer\Documents\CODES\BloodBankManagement\bin\Debug\BloodBankManagement.exe
+C:\Users\Acer\Documents\CODES\BloodBankManagement\bin\Debug\BloodBankManagement.pdb
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.BloodStock.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.BloodTransfer.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.DashBoard.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.Donor.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.DonorList.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.Form1.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.HomePage.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.LogIn.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.Patient.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.PatientList.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.Properties.Resources.resources
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBan.5209C807.Up2Date
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.exe
+C:\Users\Acer\Documents\CODES\BloodBankManagement\obj\Debug\BloodBankManagement.pdb
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\bin\Debug\BloodBankManagement.exe.config
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\bin\Debug\BloodBankManagement.exe
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\bin\Debug\BloodBankManagement.pdb
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.BloodStock.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.BloodTransfer.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.DashBoard.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.Donor.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.DonorList.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.Form1.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.HomePage.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.LogIn.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.Patient.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.PatientList.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.Properties.Resources.resources
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBan.5209C807.Up2Date
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.exe
+C:\Users\Acer\Documents\CODES\C# Project\BloodBankManagement\obj\Debug\BloodBankManagement.pdb
